@@ -8,8 +8,7 @@
         { "id": 1, "body": "some comment", "postId": 1 },
         { "id": 2, "body": "some comment", "postId": 1 }
     ],
-    "profile": {
-        "id": 123,
-        "name": "John Doe"
-    }
+    "profile": [
+        { "id": 123, "name": "John Doe" }
+    ]
   }
