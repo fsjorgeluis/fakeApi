@@ -9,6 +9,6 @@
         { "id": 2, "body": "some comment", "postId": 1 }
     ],
     "profile": [
-        { "id": 123, "name": "John Doe" }
+        { "id": 123, "displayName": "John Doe" }
     ]
   }
