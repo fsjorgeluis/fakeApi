@@ -10,5 +10,8 @@
     ],
     "profile": [
         { "id": 123, "displayName": "John Doe" }
+    ],
+    "users": [
+        { "id": 123, "name": "John Doe" }
     ]
   }
